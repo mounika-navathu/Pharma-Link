@@ -1,10 +1,24 @@
-# PharmaLink
+search for medicines, and access detailed information about vendors. The platform includes an admin panel that oversees user and vendor management to ensure smooth and secure operations.
 
-**PharmaLink** is a MERN-stack medicine inventory platform for vendors and patients.
+Technologies Used: MongoDB, Express.js, React.js, Node.js, Docker, and Docker Compose.
 
-## Setup
+Setup Instructions
+Clone the repository:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/PharmaLink.git
-   cd PharmaLink
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/PharmaLink.git
+cd PharmaLink
+Build and start the application using Docker Compose:
+
+bash
+Copy
+Edit
+docker-compose up --build
+Access the frontend at:
+http://localhost:3000
+
+Backend API runs at:
+http://localhost:5000
+
