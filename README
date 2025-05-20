@@ -5,16 +5,11 @@ Technologies Used: MongoDB, Express.js, React.js, Node.js, Docker, and Docker Co
 Setup Instructions
 Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/yourusername/PharmaLink.git
 cd PharmaLink
 Build and start the application using Docker Compose:
 
-bash
-Copy
-Edit
 docker-compose up --build
 Access the frontend at:
 http://localhost:3000
